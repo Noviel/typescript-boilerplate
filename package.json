@@ -1,7 +1,7 @@
 {
   "name": "typescript-boilerplate",
   "version": "0.1.0",
-  "description": "Typescript boilerplate with Jest, Prettier",
+  "description": "Typescript boilerplate with Jest, TSLint and Prettier",
   "author": "Alexander Snov <snov.contact@gmail.com>",
   "license": "MIT",
   "main": "src/index.ts",
