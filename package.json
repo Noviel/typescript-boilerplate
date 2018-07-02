@@ -9,7 +9,7 @@
     "build": "tsc",
     "lint": "tslint --project tsconfig.json",
     "test": "jest",
-    "prepush": "lint-staged && test"
+    "prepush": "lint-staged && yarn test"
   },
   "devDependencies": {
     "husky": "^0.14.3",
