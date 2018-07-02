@@ -1,1 +1,1 @@
-const f = (x: number) => x;
+console.log('Hello from index');
