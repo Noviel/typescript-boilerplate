@@ -1,0 +1,22 @@
+{
+  "name": "webpack-ff",
+  "version": "0.1.0",
+  "description": "Webpack Functional Features and Presets",
+  "author": "Alexander Snov <snov.contact@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint --project tsconfig.json",
+    "prepush": "lint-staged"
+  },
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "jest": "^23.2.0",
+    "lint-staged": "^7.2.0",
+    "prettier": "^1.13.7",
+    "tslint": "^5.10.0",
+    "tslint-config-prettier": "^1.13.0",
+    "typescript": "^2.9.2"
+  }
+}
