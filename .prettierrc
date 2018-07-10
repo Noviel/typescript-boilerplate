@@ -1,6 +1,6 @@
 {
   "printWidth": 80,
-  "parser": "flow",
+  "parser": "typescript",
   "singleQuote": true,
   "trailingComma": "es5"
 }
